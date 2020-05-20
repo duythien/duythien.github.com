@@ -1,0 +1,21 @@
+apiVersion: v1
+entries:
+  chart-backend:
+  - apiVersion: v1
+    created: "2020-05-20T15:37:44.398505+07:00"
+    description: A basic NGINX HTTP server
+    digest: db146bb9afee7986d983d400e8c362d78f1f31c1021d34d5d3bef7550f08d204
+    name: chart-backend
+    urls:
+    - chart-backend-0.1.0.tgz
+    version: 0.1.0
+  chart-frontend:
+  - apiVersion: v1
+    created: "2020-05-20T15:37:44.399058+07:00"
+    description: A basic NGINX HTTP server
+    digest: 899362b1b74c52c9295915e0976eb7993bbb0b7bcbfbb275b47394c434db0f5f
+    name: chart-frontend
+    urls:
+    - chart-frontend-0.1.0.tgz
+    version: 0.1.0
+generated: "2020-05-20T15:37:44.396207+07:00"
